@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<img src="https://www.newpaltz.edu/media/identity/logos/newpaltzlogo.jpg" alt="New Paltz logo" style="width:166px;height:300px;">
+<img src="https://www.newpaltz.edu/media/identity/logos/newpaltzlogo.jpg" alt="New Paltz logo" style="width:100px;height:150px;">
 <ol>
   <b><li>Personal Information:</li></b>
 		Name: <i>Cory Boris</i>
