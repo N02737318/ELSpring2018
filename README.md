@@ -2,8 +2,9 @@
 <html>
 <body>
 <img src="https://www.newpaltz.edu/media/identity/logos/newpaltzlogo.jpg" alt="New Paltz logo" width="267.50000025" height="75">
+Spring 2018 Embeded Linux class.
 <hr>
-This respository documents my class work and pojrects done for <b><i>CPS342</b></i>
+This respository documents my class work and projects done for <b><i>CPS342</b></i>
 <ol>
   <b><li>Personal Information:</li></b>
 		Name: <i>Cory Boris</i>
