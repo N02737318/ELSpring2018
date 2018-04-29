@@ -1,0 +1,41 @@
+Project Description:
+
+Using a html interface we want to control a raspberry pi camera to take still photos and rotate the camera with servos attached to it.
+
+Work Completed:
+Hosted test web interfaces for video streaming
+Confirmed accurate post and get requests interact smoothly with Python
+Solder microcontroller to servos
+Installed libraries onto pi for servo control
+Began creating schematic for camera holder
+
+To-Do:
+Create camera holder
+Finalize web interface controls, specifically, video record button and possible motion detection
+Finalize servo design/orientation
+
+Individual Accomplishments:
+
+Cansu:
+
+Servo soldering/controller
+Servo compatibility installation
+Contributed to the schematics for the camera holder
+
+Emil:
+ 
+Tested camera capabilities
+Hosted initial test server
+Made HTML code for camera livestream
+
+Cory:
+
+Hosted new server
+Made HTML code for camera livestream
+Drafted schematics for the camera holder
+
+Personally, I have found the process of understanding just how to correctly send data from a client to a server and back to the client
+a useful and exciting procedure. I look forward to continuing to use this very same technology in other projects. 
+
+Although my code may not be the most efficient for client server communication, I have found that I have something to work with and 
+the video camera doesn't seem to lag when combined with 
