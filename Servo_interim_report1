@@ -1,0 +1,37 @@
+Cory Boris
+
+Project Description
+Using a html interface we want to control a raspberry pi camera to take still photos and rotate the camera with servos attached to it.
+
+Work Completed
+Hosted test web interfaces for video streaming
+Solder microcontroller to servos
+Installed libraries onto pi for servo control
+Began creating schematic for camera holder
+
+To-Do
+Create camera holder
+Finalize web interface controls
+Finalize servo design
+Stabilize server-client communication
+Add style for the html page
+
+Individual Accomplishments
+Cansu
+Servo soldering/controller
+Servo compatibility installation
+Contributed to the schematics for the camera holder
+
+Emil
+Tested camera capabilities
+Hosted initial test server
+Made HTML code for camera livestream
+
+Cory
+Hosted new server
+Made HTML code for camera livestream
+Drafted schematics for the camera holder
+
+We still have a ways to go, but since our web interface has the ability to send slier data, 
+we are feeling optimistic about our success in sending this data to python. We have a rough sketch 
+of how are boom will go with our servos, but we need to put the materials together still.
